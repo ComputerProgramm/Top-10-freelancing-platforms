@@ -1,0 +1,114 @@
+body{
+    background-color: aliceblue;
+}
+
+
+h1{
+    margin-top: -50px !important;
+}
+#div1{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 10px black ;
+    position: sticky;
+    top: 0;
+}
+button{
+    font-size: xx-large;
+    background-color: red;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(218, 2, 2);
+}
+h1{
+    text-shadow: 5px 5px 5px white;
+}
+#div2{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+}
+#div3{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+    border-radius: 10px;
+
+}
+#div4{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+
+}
+#div5{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+
+}#div6{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+
+}#div7{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+
+}#div8{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+
+}#div9{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+
+}#div10{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+
+}#div11{
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+
+}
+div{
+    background-color:rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px black;
+
+}
